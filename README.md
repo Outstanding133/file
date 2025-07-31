@@ -1,17 +1,21 @@
 🛡️ File Integrity Checker
+
 A simple GUI-based tool to verify file integrity using SHA-256 hash.
 Built using Python and Tkinter – no external dependencies.
 
 🔧 Features
+
 📁 Select any file from your system
 🔐 Generate SHA-256 hash of the selected file
 ✅ Re-check file later to verify it hasn't been modified
 🧠 Detects tampering, corruption, or changes
 
 🖼️ GUI Preview
+
 Simple and clean Tkinter interface for file selection and hash comparison.
 
 🚀 Getting Started
+
 ✅ Requirements
 Python 3.6 or later
 
