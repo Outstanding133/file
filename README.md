@@ -17,13 +17,16 @@ Simple and clean Tkinter interface for file selection and hash comparison.
 🚀 Getting Started
 
 ✅ Requirements
+
 Python 3.6 or later
 
 No external packages needed
 
 🧑‍💻 Run the App
+
 ```python file_integrity_checker.py```
 📂 How It Works
+
 Select a file
 Click Generate Hash to create and display the SHA-256
 Later, click Re-check Integrity to verify if the file is unchanged
