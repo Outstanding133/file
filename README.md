@@ -1,4 +1,4 @@
-🛡️ File Integrity Checker
+🛡️ File Integrity Checker  Section2 T2
 
 A simple GUI-based tool to verify file integrity using SHA-256 hash.
 Built using Python and Tkinter – no external dependencies.
