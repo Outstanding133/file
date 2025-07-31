@@ -24,6 +24,6 @@ Select a file
 Click Generate Hash to create and display the SHA-256
 Later, click Re-check Integrity to verify if the file is unchanged
 Photo
-![App Screenshot](file/pic/new1.png)
+![App Screenshot](pic/new1.png)
 
 
